@@ -7777,6 +7777,11 @@ textarea:-ms-input-placeholder {
   .list-icon li {
     font-size: 16px;
   }
+
+  .left-options {
+    justify-content: center;
+    margin-bottom: 10px;
+  }
 }
 .list-icon li .icon {
   width: 30px;
